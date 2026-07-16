@@ -234,3 +234,5 @@ elif page == "Business Insights":
 
 st.sidebar.markdown("---")
 st.sidebar.caption("Built with Python • Scikit-learn • Streamlit")
+
+# new uodate
